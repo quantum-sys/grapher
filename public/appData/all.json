@@ -1,0 +1,113 @@
+{
+    "docs": [
+        {
+            "col": 6,
+            "_id": "5fa17aaf191b913cf8969152",
+            "title": "Bar Graph",
+            "description": "This is a bar graph",
+            "type": "Area",
+            "api": "/apis/bar.json",
+            "__v": 0,
+            "render": "graph"
+        },
+        {
+            "col": 3,
+            "_id": "5fa23d219eb3d444dcc47480",
+            "title": "Line Graph",
+            "description": "This is a line Graph",
+            "type": "Bar",
+            "api": "/apis/line.json",
+            "__v": 0,
+            "render": "graph"
+        },
+        {
+            "col": 3,
+            "_id": "5fa240df5db0cd2ba8ea04f7",
+            "title": "Pie Chart",
+            "description": "This is a pie CHart",
+            "type": "Pie",
+            "api": "/apis/pie.json",
+            "__v": 0,
+            "render": "graph"
+        },
+        {
+            "col": 3,
+            "_id": "5fb60ac1779e9e09f013dd2f",
+            "title": "New Graph",
+            "description": "testing",
+            "type": "Funnel",
+            "api": "/apis/funnel.json",
+            "render": "graph",
+            "__v": 0
+        },
+        {
+            "col": 6,
+            "_id": "5fb60c2a779e9e09f013dd30",
+            "title": "new",
+            "description": "hfdhk",
+            "type": "Bar",
+            "api": "/apis/bar.json",
+            "render": "graph",
+            "__v": 0
+        },
+        {
+            "col": 3,
+            "_id": "5fb61567779e9e09f013dd31",
+            "title": "graph 2",
+            "description": "",
+            "type": "Line",
+            "api": "/apis/line.json",
+            "render": "graph",
+            "__v": 0
+        },
+        {
+            "col": 3,
+            "_id": "5fb61584779e9e09f013dd32",
+            "title": "test9",
+            "description": "gjguyi",
+            "type": "Bar",
+            "api": "/apis/bar.json",
+            "render": "graph",
+            "__v": 0
+        },
+        {
+            "col": 3,
+            "_id": "5fb6159e779e9e09f013dd33",
+            "title": "test456",
+            "description": "dhghgjkhk",
+            "type": "Pie",
+            "api": "/apis/pie.json",
+            "render": "graph",
+            "__v": 0
+        },
+        {
+            "col": 3,
+            "_id": "5fb762c50abab74d986a1aee",
+            "title": "Image",
+            "description": "",
+            "type": "Image",
+            "api": "https://picsum.photos/200",
+            "render": "both",
+            "__v": 0
+        }, 
+        {
+          "col": 3,
+          "_id": "5fa240df5db0cd2ba8ea04f7",
+          "title": "Pie Chart",
+          "description": "This is a pie CHart",
+          "type": "Pie",
+          "api": "/apis/pie.json",
+          "__v": 0,
+          "render": "graph"
+      },
+    ],
+    "totalDocs": 9,
+    "limit": 20,
+    "totalPages": 1,
+    "page": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": false,
+    "prevPage": null,
+    "nextPage": null
+}

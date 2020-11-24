@@ -1,0 +1,16 @@
+[
+    {
+        "infoBgColor": "#EDEDED",
+        "footerColor": "#DED8D8",
+        "menuLinkColor": "#d7fbe8",
+        "_main": true,
+        "_id": "5fb38a4fddc1b53c882c6946",
+        "__v": 0,
+        "bodyColor": "#1fab892B",
+        "siteName": "New Site",
+        "headerColor": "#1fab89",
+        "copyright": "This is copyright to xyz.com @ 2020",
+        "infoTextMain": "Let's get it going",
+        "infoTextSub": "Plugin in your APIs, Select your Graphs and your dashboard is ready in minutes"
+    }
+]

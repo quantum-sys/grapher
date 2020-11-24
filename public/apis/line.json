@@ -1,0 +1,66 @@
+{
+    "genData":{
+        "layout":"horizontal",
+        "xAxisKey": "name",
+        "barsKeys":[
+            {
+                "name":"uv",
+                "color":"#88848d"
+                
+            },
+            {
+                "name":"pv",
+                "color":"green"
+            },
+            {
+              "name":"total",
+              "color":"red"
+            }
+          ]
+
+    },
+    "graphData":[   
+        {
+          "name": "Page A",
+          "uv": 4000,
+          "pv": 2400,
+          "total":3000
+        },
+        {
+          "name": "Page B",
+          "uv": 3000,
+          "pv": 1398,
+          "total":3000
+        },
+        {
+          "name": "Page C",
+          "uv": 2000,
+          "pv": 9800,
+          "total":3000
+        },
+        {
+          "name": "Page D",
+          "uv": 2780,
+          "pv": 3908,
+          "total":3000
+        },
+        {
+          "name": "Page E",
+          "uv": 1890,
+          "pv": 4800,
+          "total":3000
+        },
+        {
+          "name": "Page F",
+          "uv": 2390,
+          "pv": 3800,
+          "total":3000
+        },
+        {
+          "name": "Page G",
+          "uv": 3490,
+          "pv": 4300,
+          "total":3000
+        }
+      ]
+} 

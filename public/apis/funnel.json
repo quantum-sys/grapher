@@ -1,0 +1,34 @@
+{
+    "genData":{
+        "layout":"horizontal",
+        "funnelKey": "value",
+        "nameKey":"name"
+    },
+    "graphData":[
+      {
+        "value": 100,
+        "name": "Car",
+        "fill": "#8884d8"
+      },
+      {
+        "value": 80,
+        "name": "Van",
+        "fill": "#83a6ed"
+      },
+      {
+        "value": 50,
+        "name": "Bike",
+        "fill": "#8dd1e1"
+      },
+      {
+        "value": 40,
+        "name": "Cycle",
+        "fill": "#82ca9d"
+      },
+      {
+        "value": 26,
+        "name": "Bus",
+        "fill": "#a4de6c"
+      }
+    ]
+} 
